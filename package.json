@@ -1,0 +1,13 @@
+{
+  "name": "ivr-xstate-demo",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.16.4",
+    "xstate": "^4.5.0"
+  }
+}
